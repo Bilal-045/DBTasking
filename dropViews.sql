@@ -1,0 +1,10 @@
+drop view View_User_Information;
+commit;
+drop view View_Are_Friends;
+commit;
+drop view View_Photo_Information;
+commit;
+drop view View_Event_Information;
+commit;
+drop view View_Tag_Information;
+commit;
